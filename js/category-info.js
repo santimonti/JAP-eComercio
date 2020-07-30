@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", function(e){
 
             console.log("Debajo de esta linea escriban su nombre: ");
 
+            console.log("Andrés Aranda, Santiago Montiel, Lucia Todoroff");
             console.log("Agustin Tosar");
             console.log("Gabriel M.");
             console.log("Fernanda");
