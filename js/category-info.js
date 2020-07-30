@@ -42,8 +42,9 @@ document.addEventListener("DOMContentLoaded", function(e){
             showImagesGallery(category.images);
 
             console.log("Debajo de esta linea escriban su nombre: ");
-            console.log("Agustin Tosar", "Gabriel M.", "Fernanda");
-            <p>Gabriel M., Fernanda</p>
+            console.log("Agustin Tosar");
+            console.log("Gabriel M.");
+            console.log("Fernanda");
         }
     });
 });
